@@ -1,0 +1,45 @@
+{
+  "usuarios": [
+    {
+      "usuario": "nick",
+      "contra": "1123",
+      "nombre": "patrick",
+      "apellido": "perez",
+      "src_foto_de_perfil": "https://sc2.elpais.com.uy/files/article_default_content/uploads/2017/09/10/59b549a44ce7d.jpeg",
+      "hobbies": [
+        "jugar futbol" , "escuchar musica" , "vivir"
+      ]
+    },
+    {
+      "usuario": "patrick",
+      "contra": "456",
+      "nombre": "petr",
+      "apellido": "shwack",
+      "src_foto_de_perfil": "https://noticiastm.com/wp-content/uploads/2018/01/movimiento-naranja.gif",
+      "hobbies": [
+        "jugar" , "pensar" , "hurtar"
+      ]
+    },
+    
+    {
+      "usuario": "roger",
+      "contra": "7899",
+      "nombre": "rogger",
+      "apellido": "tims",
+      "src_foto_de_perfil": "https://www.asianscientist.com/wp-content/uploads/bfi_thumb/20170307-Abstract-colors-shutterstock-33dlg4212ajd43vqn3hqm8.jpg",
+      "hobbies": [
+        "guitarra" , "bailar" , "mirarr tv"
+      ]
+    },
+    {
+      "usuario": "sandra",
+      "contra": "5656",
+      "nombre": "sandra",
+      "apellido": "lo",
+      "src_foto_de_perfil": "https://www.importancia.org/wp-content/uploads/nutricion-del/Maiz-semillas-3.jpg",
+      "hobbies": [
+        "ver tv" , "contar" , "mirar peliculas"
+      ]
+    }
+  ]
+}
